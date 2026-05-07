@@ -15,7 +15,6 @@ import java.sql.Statement;
 
 public class DatabaseConnection {
 
-    dawdadawdwad
     // Connection settings
     static final String DB_URL  = "jdbc:mysql://localhost:3306/inventory_db";
     static final String USER    = "root";
